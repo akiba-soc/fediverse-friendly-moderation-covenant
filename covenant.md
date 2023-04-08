@@ -32,4 +32,4 @@ an instance, while this is tried to be avoided at most.
 
 ----
 
-_This Covenant is based on [The Fediverse-Friendly Moderation Covenant](https://github.com/pixeldesu/fediverse-friendly-moderation-covenant) and is licensed under CC0_
+_This Covenant is based on [The Fediverse-Friendly Moderation Covenant](https://github.com/akiba-soc/fediverse-friendly-moderation-covenant) and is licensed under CC0_
